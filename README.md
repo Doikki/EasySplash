@@ -1,0 +1,1 @@
+[Android全面屏，刘海屏，Splash启动页适配](https://www.jianshu.com/p/105885c44e49)
